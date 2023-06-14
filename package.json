@@ -10,7 +10,7 @@
                 }
             },
             "mods": {
-                "fabric-api": "https://mediafilez.forgecdn.net/files/4559/72/fabric-api-0.83.0%2B1.20.jar",
+                "fabric-api": "https://mediafilez.forgecdn.net/files/4438/705/fabric-api-0.76.0%2B1.19.2.jar",
                 "automodpack": "https://cdn.modrinth.com/data/k68glP2e/versions/rjpvLTQf/automodpack-3.3.1-1.19.2.jar"
             }
         }
