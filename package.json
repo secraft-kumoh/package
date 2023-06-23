@@ -11,7 +11,6 @@
             },
             "mods": {
                 "fabric-api": "https://mediafilez.forgecdn.net/files/4438/705/fabric-api-0.76.0%2B1.19.2.jar",
-                "automodpack": "https://cdn.modrinth.com/data/k68glP2e/versions/rjpvLTQf/automodpack-3.3.1-1.19.2.jar",
                 "Advancements Debug": "https://cdn.modrinth.com/data/rxMTwxyO/versions/2.3.0/advdebug-2.3.0.jar",
                 "Alternate Current": "https://cdn.modrinth.com/data/r0v8vy1s/versions/4nKkKsjy/alternate-current-mc1.19-1.6.0.jar",
                 "AntiGhost": "https://cdn.modrinth.com/data/Jw3Wx1KR/versions/1.19.1-fabric0.58.5-1.1.5/antighost-1.19.1-fabric0.58.5-1.1.5.jar",
