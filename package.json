@@ -58,7 +58,8 @@
                 "Patchouli": "https://cdn.modrinth.com/data/nU0bVIaL/versions/NorgAU8F/Patchouli-1.19.2-77-FABRIC.jar",
                 "Paladin's Furniture Mod": "https://cdn.modrinth.com/data/SISz7Qd3/versions/v4hDp1AI/paladin-furniture-mod-1.1.1-fabric-mc1.19.jar",
                 "libIPN": "https://cdn.modrinth.com/data/onSQdWhM/versions/Tbvv0fRT/libIPN-fabric-1.19-3.0.2.jar",
-                "Inventory Profiles Next": "https://cdn.modrinth.com/data/O7RBXm3n/versions/hKSMZeLW/InventoryProfilesNext-fabric-1.19-1.10.5.jar"
+                "Inventory Profiles Next": "https://cdn.modrinth.com/data/O7RBXm3n/versions/hKSMZeLW/InventoryProfilesNext-fabric-1.19-1.10.5.jar",
+                "Fabric Language Kotlin": "https://cdn.modrinth.com/data/Ha28R6CL/versions/5J7lguFF/fabric-language-kotlin-1.9.6%2Bkotlin.1.8.22.jar"
             }
         }
     }
